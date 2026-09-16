@@ -1,0 +1,70 @@
+{
+  "spent_usd": 0.22476287926916336,
+  "txs": [
+    {
+      "label": "TX1 deploy ERC721SeaDrop",
+      "hash": "0x717a8030e952c2ab08e7ed61a0e6f8d13932e4655ebe6e540c3cdef5386fef11",
+      "gasUsed": 4507488,
+      "costUsd": 0.19895829114631708,
+      "contractAddress": "0xd80266b6f0c021e6a606a51d10c19e9c5cc9a846"
+    },
+    {
+      "label": "TX2 setMaxSupply(1000)",
+      "hash": "0xe4a348357c14825c4bcd3ccc48aa5b78133dddf5b4fc1dab16b6593cebdd94e3",
+      "gasUsed": 49076,
+      "costUsd": 0.002201138534792496,
+      "contractAddress": null
+    },
+    {
+      "label": "TX3 setBaseURI",
+      "hash": "0x41cc9e8b08d14e5aad4f115340810c9b12bcdbcd2a2abf44d5ecd3a3ba6e3828",
+      "gasUsed": 95880,
+      "costUsd": 0.00431150327284164,
+      "contractAddress": null
+    },
+    {
+      "label": "TX4 updateCreatorPayoutAddress",
+      "hash": "0x2883b1528e33272d42ffcd7884439dde5023c0329693e79ed0d100ffefb6bd08",
+      "gasUsed": 54598,
+      "costUsd": 0.002468159634208792,
+      "contractAddress": null
+    },
+    {
+      "label": "TX5 updateAllowedFeeRecipient",
+      "hash": "0xa2096103d9ed95ab31561df41e44e16c87a55ac7ed97c47904aa3ea02d5bf17c",
+      "gasUsed": 99990,
+      "costUsd": 0.00420473725452297,
+      "contractAddress": null
+    },
+    {
+      "label": "TX6 updateAllowList",
+      "hash": "0x087249fb844457687af371f13bdf3e2d66d27c15bfc68d6ae5c9aff79cf9c73c",
+      "gasUsed": 58131,
+      "costUsd": 0.002387882816114661,
+      "contractAddress": null
+    },
+    {
+      "label": "TX7 mintAllowList PHASE1 FREE",
+      "hash": "0x30e5d30dbeb86c1d108d8be544962c7846d7292caca57c8e5859da472cb65c79",
+      "gasUsed": 97328,
+      "costUsd": 0.003938861909971296,
+      "contractAddress": null
+    },
+    {
+      "label": "TX8 updatePublicDrop PHASE2 0.1 USDC",
+      "hash": "0x7ee1eb304de071fbd612d189cfa91635bc7d58c36109a49903d679d408748c07",
+      "gasUsed": 59186,
+      "costUsd": 0.002368892019962876,
+      "contractAddress": null
+    },
+    {
+      "label": "TX9 mintPublic PHASE2 PAID 0.1 USDC",
+      "hash": "0x67de2bc47826a45dca9c7255c0e4449fdbdeb6be0d6b3d935dc0b9550ac82590",
+      "gasUsed": 86916,
+      "costUsd": 0.003923412680431536,
+      "contractAddress": null
+    }
+  ],
+  "token": "0xd80266b6f0c021e6a606a51d10c19e9c5cc9a846",
+  "p2_start": 1789573443
+}

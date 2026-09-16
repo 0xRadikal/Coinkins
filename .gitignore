@@ -1,0 +1,22 @@
+# ---- SECRETS: never commit ----
+.env
+*.env
+!*.env.example
+*.key
+*_key*
+wallet*
+privatekey*
+PRIVATE_KEY*
+
+# ---- build artifacts ----
+__pycache__/
+*.pyc
+contracts/out/
+seadrop/out/
+seadrop/cache/
+seadrop/lib/
+
+# ---- scratch ----
+*.log
+.DS_Store
+seadrop/
